@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszaqIKEqv/giphy.gif" width="500" alt="Coder GIF">
+<img src="./assets/coding.gif" width="500" alt="Coder GIF">
 
 </div>
 
