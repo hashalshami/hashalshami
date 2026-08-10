@@ -4,19 +4,15 @@
 
 ### Software Engineer · Backend Developer · Full Stack Developer
 
+<p>
+  <a href="https://github.com/hashalshami">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  </a>
+</p>
+
 <br>
 
-<img src="https://camo.githubusercontent.com/41935d0f324d6684b781fbd9c63e622d0535df53f8e248ef81bebbffc637188d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068795f676966" width="500"/>
-
-<br><br>
-
-<a href="https://github.com/hashalshami">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszaqIKEqv/giphy.gif" width="500" alt="Coder GIF">
 
 </div>
 
@@ -47,70 +43,67 @@ My main focus is on **Backend Development, Full Stack Development, Software Arch
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚙️ Backend Development
 
-Designing robust backend systems, REST APIs, authentication systems and business logic.
+Designing robust backend systems, APIs, authentication systems and business logic.
 
-* Laravel
-* PHP
-* Python
-* C# / .NET
-* REST APIs
-* Authentication & Authorization
-* Clean Architecture
+- Laravel
+- PHP
+- Python
+- C# / .NET
+- REST APIs
+- Authentication & Authorization
+- Clean Architecture
 
 </td>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🗄️ Database Engineering
 
-Designing relational databases with a focus on consistency, scalability and maintainability.
+Designing reliable relational databases with a focus on consistency, performance and maintainability.
 
-* MySQL
-* SQL Server
-* SQLite
-* Database Modeling
-* Relationships
-* Indexing
-* Query Optimization
-* Entity Framework
+- MySQL
+- SQL Server
+- SQLite
+- Database Modeling
+- Relationships
+- Indexing
+- Query Optimization
+- Entity Framework
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 Full Stack Development
 
 Building complete applications from database to frontend.
 
-* Laravel
-* Blade
-* Livewire
-* JavaScript
-* Tailwind CSS
-* REST APIs
-* Responsive Interfaces
+- Laravel
+- Blade
+- Livewire
+- JavaScript
+- Tailwind CSS
+- REST APIs
+- Responsive Interfaces
 
 </td>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧠 Software Engineering
 
-I care about writing software that is easy to understand, maintain and extend.
+Writing software that is understandable, maintainable and easy to extend.
 
-* OOP
-* Design Patterns
-* Clean Code
-* MVC
-* SOLID
-* Modular Architecture
-* Git & GitHub
+- OOP
+- Design Patterns
+- Clean Code
+- MVC
+- SOLID
+- Modular Architecture
+- Git & GitHub
 
 </td>
 </tr>
@@ -120,25 +113,25 @@ I care about writing software that is easy to understand, maintain and extend.
 
 # 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=php,python,cs,js,html,css" />
 </p>
 
-### Frameworks & Platforms
+### ⚙️ Frameworks & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=laravel,dotnet,tailwind,bootstrap,nodejs" />
 </p>
 
-### Databases
+### 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb" />
 </p>
 
-### Tools & DevOps
+### 🔧 Tools & DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,visualstudio" />
@@ -150,14 +143,14 @@ I care about writing software that is easy to understand, maintain and extend.
 
 <div align="center">
 
-|  Backend |   Frontend   |   Database   |     Engineering    |
-| :------: | :----------: | :----------: | :----------------: |
-|    PHP   |     HTML5    |     MySQL    |         OOP        |
-|  Laravel |     CSS3     |  SQL Server  |        SOLID       |
-|  Python  |  JavaScript  |    SQLite    |   Design Patterns  |
-|    C#    | Tailwind CSS |  PostgreSQL  | Clean Architecture |
-|   .NET   |     Blade    |    MongoDB   |         MVC        |
-| REST API |   Livewire   | Eloquent ORM |         Git        |
+| Backend | Frontend | Database | Engineering |
+|:---:|:---:|:---:|:---:|
+| PHP | HTML5 | MySQL | OOP |
+| Laravel | CSS3 | SQL Server | SOLID |
+| Python | JavaScript | SQLite | Design Patterns |
+| C# | Tailwind CSS | PostgreSQL | Clean Architecture |
+| .NET | Blade | Eloquent ORM | MVC |
+| REST API | Livewire | MongoDB | Git |
 
 </div>
 
@@ -165,72 +158,80 @@ I care about writing software that is easy to understand, maintain and extend.
 
 # 💼 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ## 🦷 AuraDental
 
 **Dental Clinic Management System**
 
 A desktop management system designed for dental clinics with modular architecture and database-driven workflows.
 
-**Technologies**
+**Stack**
 
 `C#` `WinForms` `.NET` `Entity Framework` `SQL Server`
 
-**Key Features**
+**Features**
 
-* 👨‍⚕️ Doctors management
-* 🧑‍🤝‍🧑 Patients management
-* 📅 Appointments
-* 🦷 Dental treatments
-* 🧾 Invoices
-* 📊 Reports
-* 🔐 User roles & permissions
-* 🗄️ Entity Framework Code First
+- 👨‍⚕️ Doctors management
+- 🧑‍🤝‍🧑 Patients management
+- 📅 Appointments
+- 🦷 Dental treatments
+- 🧾 Invoices
+- 📊 Reports
+- 🔐 Roles & permissions
 
----
+</td>
+<td width="50%" valign="top">
 
 ## 🚗 AutoCars
 
-**Vehicle Inspection Management System**
+**Vehicle Inspection System**
 
 A system designed to manage vehicle inspection workflows, customers, vehicles and inspection services.
 
-**Technologies**
+**Stack**
 
 `Laravel` `PHP` `MySQL` `Blade` `Tailwind CSS`
 
-**Key Features**
+**Features**
 
-* 🚘 Vehicle management
-* 👤 Customer management
-* 🔍 Vehicle inspections
-* 🧾 Inspection reports
-* 🛠️ Services
-* 📊 Reporting
+- 🚘 Vehicle management
+- 👤 Customer management
+- 🔍 Vehicle inspections
+- 🧾 Inspection reports
+- 🛠️ Services
+- 📊 Reporting
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ## 🛍️ BrandGate
 
 **E-Commerce Platform**
 
-A modern e-commerce platform built with Laravel and designed around a modular architecture.
+A modern Laravel e-commerce platform built around a modular architecture.
 
-**Technologies**
+**Stack**
 
-`Laravel` `PHP` `MySQL` `Livewire` `Filament` `Tailwind CSS`
+`Laravel` `PHP` `MySQL` `Livewire` `Filament` `Tailwind`
 
-**Key Features**
+**Features**
 
-* 🛒 Shopping cart
-* 📦 Product management
-* 🏷️ Brands & categories
-* 👤 User authentication
-* 💳 Payment integration
-* 🖼️ Media management
-* 🔐 Admin dashboard
-* 🔎 SEO optimization
+- 🛒 Shopping cart
+- 📦 Product management
+- 🏷️ Brands & categories
+- 👤 Authentication
+- 💳 Payment integration
+- 🖼️ Media management
+- 🔐 Admin dashboard
+- 🔎 SEO optimization
 
----
+</td>
+<td width="50%" valign="top">
 
 ## 💊 Vials Rx Supply
 
@@ -238,19 +239,23 @@ A modern e-commerce platform built with Laravel and designed around a modular ar
 
 An e-commerce system focused on medical products and supply management.
 
-**Technologies**
+**Stack**
 
 `Laravel` `PHP` `MySQL` `Stripe`
 
-**Key Features**
+**Features**
 
-* 🛒 E-Commerce
-* 📦 Product management
-* 💳 Stripe Checkout
-* 👤 Customer accounts
-* 📑 Orders
-* 💰 Payments
-* 📧 Notifications
+- 🛒 E-Commerce
+- 📦 Product management
+- 💳 Stripe Checkout
+- 👤 Customer accounts
+- 📑 Orders
+- 💰 Payments
+- 📧 Notifications
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -258,15 +263,9 @@ An e-commerce system focused on medical products and supply management.
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=hashalshami&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"
-height="180"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=hashalshami&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" />
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashalshami&layout=compact&hide_border=true&theme=tokyonight"
-height="180"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashalshami&layout=compact&hide_border=true&theme=tokyonight" height="180" />
 
 </div>
 
@@ -276,10 +275,7 @@ height="180"
 
 <div align="center">
 
-<img
-src="https://streak-stats.demolab.com?user=hashalshami&theme=tokyonight&hide_border=true"
-alt="GitHub Streak"
-/>
+<img src="https://streak-stats.demolab.com?user=hashalshami&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 
 </div>
 
@@ -289,10 +285,7 @@ alt="GitHub Streak"
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=hashalshami&theme=tokyo-night&hide_border=true"
-width="95%"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hashalshami&theme=tokyo-night&hide_border=true" width="95%" alt="Contribution Graph" />
 
 </div>
 
@@ -300,29 +293,25 @@ width="95%"
 
 # 🧠 Currently Exploring
 
-```text
-▸ Advanced Laravel Architecture
-▸ Backend Performance Optimization
-▸ API Design & Scalability
-▸ System Architecture
-▸ Database Optimization
-▸ Docker & Deployment
-▸ Modern .NET Development
-▸ AI-assisted Software Engineering
-```
+<div align="center">
+
+`Advanced Laravel Architecture` · `Backend Performance` · `API Design` · `System Architecture`
+
+`Database Optimization` · `Docker & Deployment` · `Modern .NET` · `AI-assisted Development`
+
+</div>
 
 ---
 
-# 🏗️ My Development Philosophy
+# 🏗️ Development Philosophy
 
 <div align="center">
 
-> "Don't just make it work.
-> Make it maintainable."
+> **"Don't just make it work. Make it maintainable."**
 
 <br>
 
-**Design → Build → Test → Optimize → Ship**
+`Design` → `Build` → `Test` → `Optimize` → `Ship`
 
 </div>
 
@@ -333,25 +322,13 @@ width="95%"
 <div align="center">
 
 <a href="https://github.com/hashalshami">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=hashalshami&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=hashalshami&style=flat-square">
 
 </div>
