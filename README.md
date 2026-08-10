@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="./assets/coding.gif" width="500" alt="Coder GIF">
+<img src="./coding.gif" width="500" alt="Coder GIF">
 
 </div>
 
